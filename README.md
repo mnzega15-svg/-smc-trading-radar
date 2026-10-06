@@ -1,1 +1,1 @@
-# -smc-trading-radar
+# smc-trading-radar
